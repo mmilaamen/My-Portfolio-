@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+@import "./variables.scss";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: $primary-bg-color;
+  font-family: futura-pt, sans-serif;
+  width: 100vw;
+  height: 100vh;
+}
+nav {
+  width: 100%;
+  height: 100px;
+  background: $primary-bg-color;
+  background: radial-gradient(
+    circle,
+    rgba(0, 0, 0, 1) 31%,
+    rgb(52, 52, 52) 88%,
+    rgb(109, 109, 109) 100%
+  );
+  border-width: 6px;
+  border-style: solid;
+  border-image: linear-gradient(to bottom, #efc137, rgba(0, 0, 0, 0)) 1 100%;
+  ul {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+  }
+  li {
+    color: white;
+    text-transform: uppercase;
+  }
+}
+
+#container {
+  margin-top: 15rem;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.blink-01 {
+  position: relative;
+  animation: blink01 1s infinite alternate;
+}
+.blink-01::before {
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -2;
+  filter: blur(40px);
+  width: 100%;
+  height: 100%;
+  content: "";
+  animation: bg_blink01 1s infinite alternate;
+}
+.blink-01::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  filter: blur(20px);
+  content: "Blinking";
+  animation: blink01 1s infinite alternate;
+}
+.blink-02 {
+  position: relative;
+  animation: blink02 1s infinite alternate;
+}
+.blink-02::before {
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -2;
+  filter: blur(40px);
+  width: 100%;
+  height: 100%;
+  content: "";
+  animation: bg_blink02 1s infinite alternate;
+}
+.blink-02::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  filter: blur(20px);
+  content: "Text";
+  animation: blink02 1s infinite alternate;
+}
+@keyframes blink01 {
+  0% {
+    color: #efc137;
+  }
+  100% {
+    color: #bafff4;
+  }
+}
+@keyframes blink02 {
+  0% {
+    color: #bafff4;
+  }
+  100% {
+    color: #efc137;
+  }
+}
+@keyframes bg_blink01 {
+  0% {
+    filter: blur(40px);
+    background-color: $secondary-bg-color;
+  }
+  100% {
+    filter: blur(40px);
+    background-color: $third-bg-color;
+  }
+}
+@keyframes bg_blink02 {
+  0% {
+    filter: blur(40px);
+    background-color: $third-bg-color;
+  }
+  100% {
+    filter: blur(40px);
+    background-color: $secondary-bg-color;
+  }
+}
+#quote {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.p1,
+.p2 {
+  color: $primary-color;
+  font-family: "Satisfy", cursive;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+}
+.p2 {
+  color: $secondary-color;
+}
+@media screen and (max-width: 480px) {
+  h1 {
+    font-size: 4rem;
+  }
+}
+@media screen and (min-width: 480px) {
+  h1 {
+    font-size: 6rem;
+  }
+}
