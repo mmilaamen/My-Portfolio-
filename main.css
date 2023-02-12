@@ -6,33 +6,132 @@
 }
 
 body {
-  background-color: rgb(0, 0, 0);
+  background-image: url(./images/2841153.jpg);
+  background-size: cover;
+  background-position: center;
   font-family: futura-pt, sans-serif;
   width: 100vw;
   height: 100vh;
 }
 
-nav {
-  width: 100%;
-  height: 100px;
-  background: rgb(0, 0, 0);
-  background: radial-gradient(circle, rgb(0, 0, 0) 31%, rgb(52, 52, 52) 88%, rgb(109, 109, 109) 100%);
-  border-width: 6px;
-  border-style: solid;
-  -o-border-image: linear-gradient(to bottom, #efc137, rgba(0, 0, 0, 0)) 1 100%;
-     border-image: linear-gradient(to bottom, #efc137, rgba(0, 0, 0, 0)) 1 100%;
+#ham-menu {
+  display: none;
 }
-nav ul {
+
+label[for=ham-menu] {
+  display: block;
+  position: fixed;
+  top: 24px;
+  left: 10px;
+  z-index: 999;
+  width: 60px;
+  height: 60px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 15px;
+  border: 2px solid white;
+}
+
+.ham-menu {
+  width: 100vw;
+  height: 100px;
+  visibility: hidden;
+  transform: translate(-110%);
+  z-index: 998;
+  transition: 1s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ham-menu ul {
+  width: 80%;
+  display: flex;
+  flex-flow: row;
+  margin-left: 70px;
+  justify-content: space-between;
+  height: 100%;
+  list-style: none;
+  align-items: center;
+}
+.ham-menu a {
+  font-size: 1rem;
+  letter-spacing: 0.15em;
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+  font-weight: bolder;
+}
+.ham-menu a:hover {
+  color: #efc137;
+}
+
+#ham-menu:checked + label {
+  background-color: transparent;
+  border-color: white;
+}
+
+#ham-menu:checked ~ div.ham-menu {
+  transform: translate(0px);
+  visibility: visible;
+}
+
+[for=ham-menu] > div {
   width: 100%;
   height: 100%;
   display: flex;
-  justify-content: space-evenly;
+  flex-flow: column wrap;
+  align-content: center;
   align-items: center;
-  list-style: none;
 }
-nav li {
-  color: white;
-  text-transform: uppercase;
+
+.menu-line {
+  display: block;
+  width: 17px;
+  height: 2px;
+  margin: 10px 0 5px;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  background-color: white;
+  transition: 500ms;
+  transform-origin: right center;
+}
+
+[for=ham-menu] div span:nth-child(4),
+[for=ham-menu] div span:nth-child(5),
+[for=ham-menu] div span:nth-child(6) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  transform-origin: left center;
+}
+
+#ham-menu:checked + label span {
+  background-color: white;
+}
+
+#ham-menu:checked + label span:nth-child(2),
+#ham-menu:checked + label span:nth-child(5) {
+  transform: scale(0);
+}
+
+#ham-menu:checked + label span:nth-child(1) {
+  transform: translateY(17px) rotate(45deg);
+}
+
+#ham-menu:checked + label span:nth-child(4) {
+  transform: translateY(17px) rotate(-45deg);
+}
+
+#ham-menu:checked + label span:nth-child(3) {
+  transform: translateY(-17px) rotate(-45deg);
+}
+
+#ham-menu:checked + label span:nth-child(6) {
+  transform: translateY(-17px) rotate(45deg);
+}
+
+h1 {
+  font-size: 2rem;
 }
 
 #container {
@@ -41,14 +140,12 @@ nav li {
   justify-content: center;
   width: 100%;
 }
-
-.blink-01 {
+#container .blink-01 {
   position: relative;
   -webkit-animation: blink01 1s infinite alternate;
           animation: blink01 1s infinite alternate;
 }
-
-.blink-01::before {
+#container .blink-01::before {
   opacity: 0.5;
   position: absolute;
   top: 0;
@@ -61,8 +158,7 @@ nav li {
   -webkit-animation: bg_blink01 1s infinite alternate;
           animation: bg_blink01 1s infinite alternate;
 }
-
-.blink-01::after {
+#container .blink-01::after {
   position: absolute;
   top: 0;
   left: 0;
@@ -72,14 +168,12 @@ nav li {
   -webkit-animation: blink01 1s infinite alternate;
           animation: blink01 1s infinite alternate;
 }
-
-.blink-02 {
+#container .blink-02 {
   position: relative;
   -webkit-animation: blink02 1s infinite alternate;
           animation: blink02 1s infinite alternate;
 }
-
-.blink-02::before {
+#container .blink-02::before {
   opacity: 0.5;
   position: absolute;
   top: 0;
@@ -92,8 +186,7 @@ nav li {
   -webkit-animation: bg_blink02 1s infinite alternate;
           animation: bg_blink02 1s infinite alternate;
 }
-
-.blink-02::after {
+#container .blink-02::after {
   position: absolute;
   top: 0;
   left: 0;
@@ -183,26 +276,105 @@ nav li {
   display: flex;
   justify-content: center;
 }
-
-.p1,
-.p2 {
+#quote .p1,
+#quote .p2 {
   color: white;
   font-family: "Satisfy", cursive;
   font-size: 1rem;
   letter-spacing: 0.2rem;
 }
-
-.p2 {
+#quote .p2 {
   color: #efc137;
 }
 
+footer {
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  bottom: 0;
+  background-color: rgb(0, 0, 0);
+  padding: 10px;
+}
+footer p {
+  color: #efc137;
+  text-align: center;
+  font-family: "Satisfy", cursive;
+}
+footer ul {
+  width: 50%;
+  height: 60%;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: auto;
+  align-items: center;
+}
+footer a {
+  color: white;
+  font-size: 1.5rem;
+}
+footer .copyRight {
+  margin-bottom: 0;
+  color: white;
+  font-size: 0.5rem;
+}
+
 @media screen and (max-width: 480px) {
+  .nav2 {
+    display: none;
+  }
   h1 {
-    font-size: 4rem;
+    font-size: 3rem;
+  }
+  .p1,
+.p2 {
+    font-size: 1rem;
   }
 }
 @media screen and (min-width: 480px) {
+  .nav1 {
+    display: none;
+  }
+  .nav2 {
+    width: 100%;
+    height: 100px;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(circle, rgb(0, 0, 0) 31%, rgb(52, 52, 52) 88%, rgb(109, 109, 109) 100%);
+    border-width: 6px;
+    border-style: solid;
+    -o-border-image: linear-gradient(to bottom, #efc137, rgba(0, 0, 0, 0)) 1 100%;
+       border-image: linear-gradient(to bottom, #efc137, rgba(0, 0, 0, 0)) 1 100%;
+  }
+  .nav2 ul {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding: 2rem;
+  }
+  .nav2 a {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bolder;
+  }
+  .nav2 a:hover {
+    color: #efc137;
+  }
   h1 {
     font-size: 6rem;
+  }
+  #quote .p1,
+#quote .p2 {
+    font-size: 2.5rem;
+  }
+  footer p {
+    font-size: 1.2rem;
+  }
+  footer a {
+    font-size: 2rem;
   }
 }/*# sourceMappingURL=main.css.map */
