@@ -914,7 +914,7 @@
 84/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/packager-js/package.json499162500000000000 0
 91/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/svg-fonts.js499162500000000000 0
 96/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/pagevisibility.js499162500000000000 0
-66/home/user/Desktop/final/My-Portfolio-/dev-serve/about.5787dde2.js1676226540078770986 0
+66/home/user/Desktop/final/My-Portfolio-/dev-serve/about.5787dde2.js1676227254356922902 0
 60/home/user/Desktop/final/My-Portfolio-/node_modules/posthtml1675868128934477074 1
 99/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/css-rebeccapurple.js499162500000000000 0
 93/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/css-filters.js499162500000000000 0
@@ -1501,12 +1501,12 @@
 70/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/pluck.js499162500000000000 0
 106/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/dom-utils/getHTMLElementScroll.d.ts1660204288000000000 0
 97/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/x-doc-messaging.js499162500000000000 0
-72/home/user/Desktop/final/My-Portfolio-/dev-serve/project.3e8a396a.js.map1676226540082771080 0
+72/home/user/Desktop/final/My-Portfolio-/dev-serve/project.3e8a396a.js.map1676227254360922795 0
 92/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/utils/getVariation.js1660204277000000000 0
 70/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/plant.js499162500000000000 0
 72/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/orderBy.js499162500000000000 0
 71/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/commit.js499162500000000000 0
-73/home/user/Desktop/final/My-Portfolio-/dev-serve/contact.9908931e.css.map1676226540062770605 0
+73/home/user/Desktop/final/My-Portfolio-/dev-serve/contact.9908931e.css.map1676227254324923764 0
 87/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/proxy.js499162500000000000 0
 72/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/toPairs.js499162500000000000 0
 107/home/user/Desktop/final/My-Portfolio-/node_modules/@babel/highlight/node_modules/supports-color/browser.js1521908559000000000 0
@@ -1756,7 +1756,7 @@
 76/home/user/Desktop/final/My-Portfolio-/node_modules/picocolors/picocolors.js499162500000000000 0
 67/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/_Hash.js499162500000000000 0
 95/home/user/Desktop/final/My-Portfolio-/node_modules/entities/lib/generated/decode-data-xml.d.ts499162500000000000 0
-59/home/user/Desktop/final/My-Portfolio-/dev-serve/index.html1676226540046770224 0
+59/home/user/Desktop/final/My-Portfolio-/dev-serve/index.html1676227254320923870 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/regions/TV.js499162500000000000 0
 92/home/user/Desktop/final/My-Portfolio-/node_modules/csso/lib/replace/property/font-weight.js499162500000000000 0
 79/home/user/Desktop/final/My-Portfolio-/node_modules/sass/types/value/index.d.ts499162500000000000 0
@@ -1847,7 +1847,7 @@
 70/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/split.js499162500000000000 0
 97/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/core/test/fixtures/library-scopehoist1675868136234374779 1
 72/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/partial.js499162500000000000 0
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/06.0a3b6b4c.jpg1676226540078770986 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/06.0a3b6b4c.jpg1676227254356922902 0
 102/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/dom-utils/getNodeScroll.js.flow1660204285000000000 0
 75/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/difference.js499162500000000000 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/regions/TR.js499162500000000000 0
@@ -1957,7 +1957,7 @@
 90/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/promises.js499162500000000000 0
 119/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/core/test/fixtures/config-extends-not-found/.parcelrc-json5499162500000000000 0
 99/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/fieldset-disabled.js499162500000000000 0
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/02.529d1959.jpg1676226540078770986 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/02.529d1959.jpg1676227254356922902 0
 128/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-x64-musl.node499162500000000000 0
 99/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/channel-messaging.js499162500000000000 0
 74/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/intersection.js499162500000000000 0
@@ -2127,7 +2127,7 @@
 93/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/core/src/requests/AssetRequest.js499162500000000000 0
 85/home/user/Desktop/final/My-Portfolio-/node_modules/svgo/plugins/removeHiddenElems.js499162500000000000 0
 68/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/string.js499162500000000000 0
-61/home/user/Desktop/final/My-Portfolio-/dev-serve/project.html1676226540058770509 0
+61/home/user/Desktop/final/My-Portfolio-/dev-serve/project.html1676227254320923870 0
 92/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/hashchange.js499162500000000000 0
 65/home/user/Desktop/final/My-Portfolio-/node_modules/tslib/modules1675868128090488864 1
 67/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/times.js499162500000000000 0
@@ -2191,7 +2191,7 @@
 86/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/core/lib/ReporterRunner.js499162500000000000 0
 79/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/utils/src/is-url.js499162500000000000 0
 62/home/user/Desktop/final/My-Portfolio-/node_modules/fill-range1675868127422498188 1
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/04.983d5a7e.jpg1676226540082771080 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/04.983d5a7e.jpg1676227254360922795 0
 67/home/user/Desktop/final/My-Portfolio-/node_modules/async/concat.js499162500000000000 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/core/src/Environment.js499162500000000000 0
 94/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/dist/umd/popper-lite.min.js1660204281000000000 0
@@ -2208,7 +2208,7 @@
 95/home/user/Desktop/final/My-Portfolio-/node_modules/@lmdb/lmdb-linux-arm/node.abi102.glibc.node499162500000000000 0
 97/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/transformer-postcss/src/loadConfig.js499162500000000000 0
 97/home/user/Desktop/final/My-Portfolio-/node_modules/node-gyp-build-optional-packages/package.json499162500000000000 0
-67/home/user/Desktop/final/My-Portfolio-/dev-serve/index.f1767dfa.css1676226540058770509 0
+67/home/user/Desktop/final/My-Portfolio-/dev-serve/index.f1767dfa.css1676227254320923870 0
 73/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/_getAllKeys.js499162500000000000 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/regions/PH.js499162500000000000 0
 76/home/user/Desktop/final/My-Portfolio-/node_modules/css-tree/dist/csstree.js499162500000000000 0
@@ -2317,7 +2317,7 @@
 77/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/_mapCacheDelete.js499162500000000000 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/regions/LU.js499162500000000000 0
 72/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/valueOf.js499162500000000000 0
-38/home/user/Desktop/final/My-Portfolio-1676225672662078015 1
+38/home/user/Desktop/final/My-Portfolio-1676226969128378781 1
 68/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/now.js499162500000000000 0
 90/home/user/Desktop/final/My-Portfolio-/node_modules/bootstrap/dist/js/bootstrap.esm.js.map499162500000000000 0
 95/home/user/Desktop/final/My-Portfolio-/node_modules/bootstrap/scss/mixins/_visually-hidden.scss499162500000000000 0
@@ -2432,7 +2432,7 @@
 94/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/inline-block.js499162500000000000 0
 72/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/toIterator.js499162500000000000 0
 73/home/user/Desktop/final/My-Portfolio-/node_modules/source-map-js/LICENSE499162500000000000 0
-69/home/user/Desktop/final/My-Portfolio-/dev-serve/project.27f96c95.css1676226540046770224 0
+69/home/user/Desktop/final/My-Portfolio-/dev-serve/project.27f96c95.css1676227254320923870 0
 91/home/user/Desktop/final/My-Portfolio-/node_modules/cosmiconfig/dist/getPropertyByPath.d.ts499162500000000000 0
 101/home/user/Desktop/final/My-Portfolio-/node_modules/css-tree/lib/syntax/pseudo/common/selectorList.js499162500000000000 0
 106/home/user/Desktop/final/My-Portfolio-/node_modules/@msgpackr-extract/msgpackr-extract-win32-x64/README.md499162500000000000 0
@@ -2467,7 +2467,7 @@
 71/home/user/Desktop/final/My-Portfolio-/node_modules/bootstrap/README.md499162500000000000 0
 85/home/user/Desktop/final/My-Portfolio-/node_modules/css-tree/lib/syntax/pseudo/dir.js499162500000000000 0
 51/home/user/Desktop/final/My-Portfolio-/contact.html1676223789904223518 0
-78/home/user/Desktop/final/My-Portfolio-/dev-serve/My-Portfolio-.32da41d6.js.map1676226540082771080 0
+78/home/user/Desktop/final/My-Portfolio-/dev-serve/My-Portfolio-.32da41d6.js.map1676227254360922795 0
 99/home/user/Desktop/final/My-Portfolio-/node_modules/css-tree/lib/syntax/node/PseudoClassSelector.js499162500000000000 0
 82/home/user/Desktop/final/My-Portfolio-/node_modules/svgo/plugins/preset-default.js499162500000000000 0
 108/home/user/Desktop/final/My-Portfolio-/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/LICENSE499162500000000000 0
@@ -2488,7 +2488,7 @@
 103/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/dist/esm/utils/mergePaddingObject.js1660204279000000000 0
 68/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/sortBy.js499162500000000000 0
 76/home/user/Desktop/final/My-Portfolio-/node_modules/pinkie-promise/readme.md1460309821000000000 0
-69/home/user/Desktop/final/My-Portfolio-/dev-serve/2841153.f4eef489.jpg1676226540082771080 0
+69/home/user/Desktop/final/My-Portfolio-/dev-serve/2841153.f4eef489.jpg1676227254360922795 0
 80/home/user/Desktop/final/My-Portfolio-/node_modules/css-tree/lib/parser/index.js499162500000000000 0
 65/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/tap.js499162500000000000 0
 80/home/user/Desktop/final/My-Portfolio-/node_modules/bootstrap/js/dist/tooltip.js499162500000000000 0
@@ -2596,7 +2596,7 @@
 72/home/user/Desktop/final/My-Portfolio-/node_modules/parse-json/readme.md499162500000000000 0
 91/home/user/Desktop/final/My-Portfolio-/node_modules/css-tree/lib/syntax/atrule/font-face.js499162500000000000 0
 88/home/user/Desktop/final/My-Portfolio-/node_modules/bootstrap/scss/mixins/_backdrop.scss499162500000000000 0
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/10.2546c10b.png1676226540078770986 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/10.2546c10b.png1676227254356922902 0
 89/home/user/Desktop/final/My-Portfolio-/node_modules/domelementtype/lib/esm/index.d.ts.map499162500000000000 0
 67/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/delay.js499162500000000000 0
 74/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/unionWith.js499162500000000000 0
@@ -2742,7 +2742,7 @@
 52/home/user/Desktop/final/My-Portfolio-/about.css.map1676223147838280136 0
 69/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/some.js499162500000000000 0
 63/home/user/Desktop/final/My-Portfolio-/node_modules/detect-libc1675868135866379950 1
-74/home/user/Desktop/final/My-Portfolio-/dev-serve/My-Portfolio-.32da41d6.js1676226540078770986 0
+74/home/user/Desktop/final/My-Portfolio-/dev-serve/My-Portfolio-.32da41d6.js1676227254356922902 0
 68/home/user/Desktop/final/My-Portfolio-/node_modules/terser/README.md499162500000000000 0
 73/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/_asciiWords.js499162500000000000 0
 70/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/unset.js499162500000000000 0
@@ -2761,7 +2761,7 @@
 74/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/pullAllBy.js499162500000000000 0
 75/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/_listCacheGet.js499162500000000000 0
 90/home/user/Desktop/final/My-Portfolio-/node_modules/type-fest/source/iterable-element.d.ts499162500000000000 0
-68/home/user/Desktop/final/My-Portfolio-/dev-serve/project.3e8a396a.js1676226540078770986 0
+68/home/user/Desktop/final/My-Portfolio-/dev-serve/project.3e8a396a.js1676227254356922902 0
 96/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/utils/computeOffsets.d.ts1660204288000000000 0
 94/home/user/Desktop/final/My-Portfolio-/node_modules/utility-types/dist/functional-helpers.d.ts499162500000000000 0
 81/home/user/Desktop/final/My-Portfolio-/node_modules/regenerator-runtime/README.md499162500000000000 0
@@ -2803,7 +2803,7 @@
 93/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/geolocation.js499162500000000000 0
 76/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/packager-css/src1675868132074433145 1
 68/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/uniqBy.js499162500000000000 0
-48/home/user/Desktop/final/My-Portfolio-/dev-serve1676226540138772412 1
+48/home/user/Desktop/final/My-Portfolio-/dev-serve1676227254376922365 1
 75/home/user/Desktop/final/My-Portfolio-/node_modules/bootstrap/js/src/tab.js499162500000000000 0
 91/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/gyroscope.js499162500000000000 0
 93/home/user/Desktop/final/My-Portfolio-/node_modules/@swc/helpers/src/_to_consumable_array.mjs1655364223000000000 0
@@ -2845,7 +2845,7 @@
 69/home/user/Desktop/final/My-Portfolio-/node_modules/svgo/package.json499162500000000000 0
 67/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/chain.js499162500000000000 0
 69/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/juxt.js499162500000000000 0
-72/home/user/Desktop/final/My-Portfolio-/dev-serve/contact.b6bac28c.js.map1676226540082771080 0
+72/home/user/Desktop/final/My-Portfolio-/dev-serve/contact.b6bac28c.js.map1676227254360922795 0
 80/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/assignInAllWith.js499162500000000000 0
 86/home/user/Desktop/final/My-Portfolio-/node_modules/bootstrap/scss/bootstrap-grid.scss499162500000000000 0
 57/home/user/Desktop/final/My-Portfolio-/node_modules/p-try1675868127438497965 1
@@ -2873,7 +2873,7 @@
 76/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/curryRightN.js499162500000000000 0
 71/home/user/Desktop/final/My-Portfolio-/node_modules/ansi-styles/license499162500000000000 0
 71/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/string.js499162500000000000 0
-73/home/user/Desktop/final/My-Portfolio-/dev-serve/project.27f96c95.css.map1676226540062770605 0
+73/home/user/Desktop/final/My-Portfolio-/dev-serve/project.27f96c95.css.map1676227254324923764 0
 92/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/package-manager/lib/index.js.map499162500000000000 0
 78/home/user/Desktop/final/My-Portfolio-/node_modules/nth-check/lib/esm/parse.js499162500000000000 0
 81/home/user/Desktop/final/My-Portfolio-/node_modules/svgo/plugins/removeViewBox.js499162500000000000 0
@@ -2892,7 +2892,7 @@
 70/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/toString.js499162500000000000 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/regions/UY.js499162500000000000 0
 67/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/rearg.js499162500000000000 0
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/08.b9421f5c.png1676226540078770986 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/08.b9421f5c.png1676227254356922902 0
 49/home/user/Desktop/final/My-Portfolio-/about.scss1676225317776438949 0
 75/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/toSafeInteger.js499162500000000000 0
 81/home/user/Desktop/final/My-Portfolio-/node_modules/@lezer/common/dist/parse.d.ts499162500000000000 0
@@ -2943,7 +2943,7 @@
 68/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/commit.js499162500000000000 0
 98/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/dist/umd/popper-base.min.js.map1660204281000000000 0
 97/home/user/Desktop/final/My-Portfolio-/node_modules/@swc/helpers/src/_class_private_field_set.mjs1655364223000000000 0
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/01.8486e615.jpg1676226540138772412 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/01.8486e615.jpg1676227254376922365 0
 100/home/user/Desktop/final/My-Portfolio-/node_modules/source-map-support/browser-source-map-support.js499162500000000000 0
 85/home/user/Desktop/final/My-Portfolio-/node_modules/@lmdb/lmdb-linux-x64/package.json499162500000000000 0
 52/home/user/Desktop/final/My-Portfolio-/images/06.jpg1676210883289306698 0
@@ -3017,7 +3017,7 @@
 65/home/user/Desktop/final/My-Portfolio-/node_modules/p-try/license499162500000000000 0
 100/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/dom-utils/getCompositeRect.js1660204277000000000 0
 71/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/omitBy.js499162500000000000 0
-59/home/user/Desktop/final/My-Portfolio-/dev-serve/about.html1676226540058770509 0
+59/home/user/Desktop/final/My-Portfolio-/dev-serve/about.html1676227254320923870 0
 90/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/modifiers/offset.js1660204277000000000 0
 73/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/_arrayEvery.js499162500000000000 0
 97/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/transformer-postcss/lib/loadConfig.js499162500000000000 0
@@ -3110,7 +3110,7 @@
 81/home/user/Desktop/final/My-Portfolio-/node_modules/css-tree/lib/lexer/generic.js499162500000000000 0
 140/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main-directory/package.json499162500000000000 0
 104/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/link-rel-modulepreload.js499162500000000000 0
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/07.0bb75a43.jpg1676226540134772317 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/07.0bb75a43.jpg1676227254372922472 0
 79/home/user/Desktop/final/My-Portfolio-/node_modules/css-tree/lib/lexer/Lexer.js499162500000000000 0
 85/home/user/Desktop/final/My-Portfolio-/node_modules/css-tree/lib/syntax/node/Value.js499162500000000000 0
 52/home/user/Desktop/final/My-Portfolio-/images/01.jpg1676210408595364079 0
@@ -3128,7 +3128,7 @@
 86/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/cors.js499162500000000000 0
 74/home/user/Desktop/final/My-Portfolio-/node_modules/is-arrayish/.npmignore1440522010000000000 0
 85/home/user/Desktop/final/My-Portfolio-/node_modules/bootstrap/scss/mixins/_caret.scss499162500000000000 0
-70/home/user/Desktop/final/My-Portfolio-/dev-serve/about.5787dde2.js.map1676226540082771080 0
+70/home/user/Desktop/final/My-Portfolio-/dev-serve/about.5787dde2.js.map1676227254360922795 0
 80/home/user/Desktop/final/My-Portfolio-/node_modules/css-tree/lib/lexer/search.js499162500000000000 0
 104/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/css-boxdecorationbreak.js499162500000000000 0
 82/home/user/Desktop/final/My-Portfolio-/node_modules/css-what/lib/es/index.d.ts.map499162500000000000 0
@@ -3630,7 +3630,7 @@
 72/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/_baseUnary.js499162500000000000 0
 98/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/dom-utils/getWindow.js.flow1660204285000000000 0
 84/home/user/Desktop/final/My-Portfolio-/node_modules/lmdb/dependencies/lmdb/libraries1675868135354387142 1
-61/home/user/Desktop/final/My-Portfolio-/dev-serve/contact.html1676226540058770509 0
+61/home/user/Desktop/final/My-Portfolio-/dev-serve/contact.html1676227254320923870 0
 85/home/user/Desktop/final/My-Portfolio-/node_modules/weak-lru-cache/tests/benchmark.js499162500000000000 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/regions/MR.js499162500000000000 0
 68/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/flake.nix499162500000000000 0
@@ -3704,7 +3704,7 @@
 79/home/user/Desktop/final/My-Portfolio-/node_modules/terser/lib/equivalent-to.js499162500000000000 0
 109/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/utils/getOppositeVariationPlacement.js1660204277000000000 0
 80/home/user/Desktop/final/My-Portfolio-/node_modules/nth-check/lib/compile.js.map499162500000000000 0
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/12.9c71c4ff.jpg1676226540078770986 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/12.9c71c4ff.jpg1676227254356922902 0
 81/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/dist/esm/utils1675868130362457110 1
 72/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/upperFirst.js499162500000000000 0
 123/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo/index.js499162500000000000 0
@@ -3885,7 +3885,7 @@
 95/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/html5semantic.js499162500000000000 0
 70/home/user/Desktop/final/My-Portfolio-/node_modules/path-type/index.js499162500000000000 0
 92/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/modifiers/offset.d.ts1660204288000000000 0
-71/home/user/Desktop/final/My-Portfolio-/dev-serve/about.a6eefc12.css.map1676226540062770605 0
+71/home/user/Desktop/final/My-Portfolio-/dev-serve/about.a6eefc12.css.map1676227254324923764 0
 92/home/user/Desktop/final/My-Portfolio-/node_modules/abortcontroller-polyfill/src/ponyfill.js499162500000000000 0
 96/home/user/Desktop/final/My-Portfolio-/node_modules/lmdb/dependencies/v8/v8-fast-api-calls-v16.h499162500000000000 0
 78/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/dropLastWhile.js499162500000000000 0
@@ -4146,7 +4146,7 @@
 88/home/user/Desktop/final/My-Portfolio-/node_modules/@jridgewell/gen-mapping/src/types.ts499162500000000000 0
 92/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/use-strict.js499162500000000000 0
 89/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/picture.js499162500000000000 0
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/11.d76e582f.jpg1676226540134772317 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/11.d76e582f.jpg1676227254372922472 0
 93/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/typedarrays.js499162500000000000 0
 98/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/css-supports-api.js499162500000000000 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/regions/MU.js499162500000000000 0
@@ -4309,7 +4309,7 @@
 105/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/dom-utils/getWindowScrollBarX.d.ts1660204288000000000 0
 105/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/date-tolocaledatestring.js499162500000000000 0
 94/home/user/Desktop/final/My-Portfolio-/node_modules/lightningcss-linux-arm-gnueabihf/README.md499162500000000000 0
-67/home/user/Desktop/final/My-Portfolio-/dev-serve/about.a6eefc12.css1676226540058770509 0
+67/home/user/Desktop/final/My-Portfolio-/dev-serve/about.a6eefc12.css1676227254320923870 0
 90/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/datalist.js499162500000000000 0
 80/home/user/Desktop/final/My-Portfolio-/node_modules/entities/lib/decode.d.ts.map499162500000000000 0
 98/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/utils/rectToClientRect.d.ts1660204288000000000 0
@@ -4425,7 +4425,7 @@
 82/home/user/Desktop/final/My-Portfolio-/node_modules/htmlparser2/lib/Tokenizer.d.ts499162500000000000 0
 71/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/isDate.js499162500000000000 0
 88/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/webnfc.js499162500000000000 0
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/09.e022ed06.jpg1676226540134772317 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/09.e022ed06.jpg1676227254372922472 0
 89/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/streams.js499162500000000000 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/@swc/helpers/src/_construct.mjs1655364223000000000 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/dotenv-expand/dotenv-expand.png499162500000000000 0
@@ -4607,7 +4607,7 @@
 77/home/user/Desktop/final/My-Portfolio-/node_modules/path-is-absolute/index.js1475210370000000000 0
 88/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/core/lib/loadParcelPlugin.js499162500000000000 0
 77/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/fs/lib/types.d.ts499162500000000000 0
-71/home/user/Desktop/final/My-Portfolio-/dev-serve/index.f1767dfa.css.map1676226540062770605 0
+71/home/user/Desktop/final/My-Portfolio-/dev-serve/index.f1767dfa.css.map1676227254324923764 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/regions/PY.js499162500000000000 0
 90/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/packager-js/src/.eslintrc.json499162500000000000 0
 70/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/unzip.js499162500000000000 0
@@ -4774,7 +4774,7 @@
 85/home/user/Desktop/final/My-Portfolio-/node_modules/htmlnano/lib/modules/minifyCss.js499162500000000000 0
 77/home/user/Desktop/final/My-Portfolio-/node_modules/posthtml-render/readme.md499162500000000000 0
 95/home/user/Desktop/final/My-Portfolio-/node_modules/@jridgewell/set-array/dist/set-array.umd.js499162500000000000 0
-68/home/user/Desktop/final/My-Portfolio-/dev-serve/contact.b6bac28c.js1676226540078770986 0
+68/home/user/Desktop/final/My-Portfolio-/dev-serve/contact.b6bac28c.js1676227254356922902 0
 90/home/user/Desktop/final/My-Portfolio-/node_modules/htmlnano/lib/modules/removeComments.js499162500000000000 0
 73/home/user/Desktop/final/My-Portfolio-/node_modules/posthtml/node_modules1675868124730535718 1
 97/home/user/Desktop/final/My-Portfolio-/node_modules/htmlnano/lib/modules/removeAttributeQuotes.js499162500000000000 0
@@ -4851,7 +4851,7 @@
 83/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/regions/AU.js499162500000000000 0
 109/home/user/Desktop/final/My-Portfolio-/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/050-modules.md499162500000000000 0
 108/home/user/Desktop/final/My-Portfolio-/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/030-config.md499162500000000000 0
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/03.f591ea31.jpg1676226540134772317 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/03.f591ea31.jpg1676227254372922472 0
 107/home/user/Desktop/final/My-Portfolio-/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/020-usage.md499162500000000000 0
 77/home/user/Desktop/final/My-Portfolio-/node_modules/yaml/browser/parse-cst.js499162500000000000 0
 80/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/source-map/README.md499162500000000000 0
@@ -5178,7 +5178,7 @@
 94/home/user/Desktop/final/My-Portfolio-/node_modules/bootstrap/dist/js/bootstrap.esm.min.js.map499162500000000000 0
 81/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/namer-default/LICENSE499162500000000000 0
 86/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/namer-default/package.json499162500000000000 0
-49/home/user/Desktop/final/My-Portfolio-/index.html1676226539666761189 0
+49/home/user/Desktop/final/My-Portfolio-/index.html1676227253868936036 0
 106/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/runtime-browser-hmr/lib/loaders/hmr-runtime.js499162500000000000 0
 125/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/transformer-react-refresh-wrap/lib/ReactRefreshWrapTransformer.js499162500000000000 0
 85/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/plugin/src/PluginAPI.d.ts499162500000000000 0
@@ -5373,7 +5373,7 @@
 68/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/random.js499162500000000000 0
 86/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/core/src/InternalConfig.js499162500000000000 0
 69/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/noop.js499162500000000000 0
-69/home/user/Desktop/final/My-Portfolio-/dev-serve/contact.9908931e.css1676226540058770509 0
+69/home/user/Desktop/final/My-Portfolio-/dev-serve/contact.9908931e.css1676227254320923870 0
 106/home/user/Desktop/final/My-Portfolio-/node_modules/caniuse-lite/data/features/css-indeterminate-pseudo.js499162500000000000 0
 78/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/core/src/worker.js499162500000000000 0
 83/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/core/src/BundleGraph.js499162500000000000 0
@@ -5849,7 +5849,7 @@
 99/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/transformer-posthtml/lib/loadPlugins.js499162500000000000 0
 105/home/user/Desktop/final/My-Portfolio-/node_modules/@popperjs/core/lib/utils/computeAutoPlacement.js.flow1660204285000000000 0
 107/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/transformer-posthtml/lib/PostHTMLTransformer.js499162500000000000 0
-64/home/user/Desktop/final/My-Portfolio-/dev-serve/05.db3a32b1.jpg1676226540134772317 0
+64/home/user/Desktop/final/My-Portfolio-/dev-serve/05.db3a32b1.jpg1676227254372922472 0
 88/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/transformer-posthtml/LICENSE499162500000000000 0
 71/home/user/Desktop/final/My-Portfolio-/node_modules/lodash/fp/deburr.js499162500000000000 0
 84/home/user/Desktop/final/My-Portfolio-/node_modules/@parcel/transformer-posthtml/src1675868130262458509 1
